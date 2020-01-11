@@ -14,7 +14,4 @@ for (var key in bandList) {
   }
 }
 
-// Example:
-// User Input: node runBonus rap
-// Output: A rap band is Run DMC.
 
